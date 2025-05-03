@@ -149,8 +149,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/AvaRobot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=AvaRobot&theme=dracula&hide_border=true" />
+      <a href="https://github.com/CertifiedCoders/TuneviaBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=TuneviaBot&theme=dracula&hide_border=true" />
       </a>
     </td>
   </tr>
