@@ -144,8 +144,8 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/ANNIE-X-MUSIC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=ANNIE-X-MUSIC&theme=dracula&hide_border=true" />
+      <a href="https://github.com/CertifiedCoders/AnnieXMusic">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=AnnieXMusic&theme=dracula&hide_border=true" />
       </a>
     </td>
     <td width="50%">
