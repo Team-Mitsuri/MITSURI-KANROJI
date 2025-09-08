@@ -25,7 +25,7 @@
 
 <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TEAM MITSURI&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MITSUR-KANROJII&style=flat-square" />
 </p>
 
 ---
