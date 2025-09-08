@@ -12,7 +12,7 @@
         <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+RAJNISH+MISHRA+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+SANDEEP+RAI+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
       </td>
     </tr>
   </table>
@@ -25,7 +25,7 @@
 
 <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TEAM MITSURI&style=flat-square" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
     </ul>
   </td>
   <td width="30%" align="center">
-    <img src="https://github.com/CertifiedCoders/CertifiedCoders/blob/main/Robo.webp" width="170" alt="Robo" />
+    <img src="https://github.com/TEAMMITSURI/MITSURIKANROJI/blob/main/Robo.webp" width="170" alt="Robo" />
   </td>
 </tr>
 </table>
